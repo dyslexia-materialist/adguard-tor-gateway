@@ -1,0 +1,10 @@
+# Gerçek configler ve sırlar — ASLA commit etme:
+config/gateway.env
+*.conf
+*.conf.bak
+*.key
+keenpass
+*.log
+state*
+conifg/
+**/gateway.env
